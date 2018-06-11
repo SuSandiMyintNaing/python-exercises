@@ -1,4 +1,4 @@
-Ture and True
+True and True
 False and False
 1 == 1 and 2 == 1
 "test" == "test"
